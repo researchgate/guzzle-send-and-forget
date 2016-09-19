@@ -1,0 +1,21 @@
+{
+    "name": "rg/guzzle-send-and-forget",
+    "license" : "MIT",
+    "authors" : [
+        {
+            "name" : "Shaked Klein Orbach",
+            "email" : "shaked.klein@researchgate.net",
+            "homepage" : "http://www.shakedos.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "guzzlehttp/guzzle": "~6.0",
+        "psr/http-message": "1.0.1"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "rg\\guzzle" : "src/"
+        }
+    }
+}
