@@ -1,5 +1,5 @@
 <?php
-namespace rg\guzzle;
+namespace rg\saf;
 
 /**
  * @copyright ResearchGate GmbH

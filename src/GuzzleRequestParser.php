@@ -1,5 +1,5 @@
 <?php
-namespace rg\guzzle;
+namespace rg\saf;
 
 use Psr\Http\Message\RequestInterface;
 

@@ -1,5 +1,5 @@
 {
-    "name": "rg/guzzle-send-and-forget",
+    "name": "rg/send-and-forget",
     "license" : "MIT",
     "authors" : [
         {
@@ -13,9 +13,9 @@
         "guzzlehttp/guzzle": "~6.0",
         "psr/http-message": "1.0.1"
     },
-    "autoload" : {
-        "psr-0" : {
-            "rg\\guzzle" : "src/"
+    "autoload": {
+        "psr-4": {
+            "rg\\saf\\": "src"
         }
     }
 }
